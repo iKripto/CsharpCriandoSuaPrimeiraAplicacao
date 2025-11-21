@@ -1,0 +1,15 @@
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\bin\Debug\net10.0\FacaComoEuFiz1.exe
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\bin\Debug\net10.0\FacaComoEuFiz1.deps.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\bin\Debug\net10.0\FacaComoEuFiz1.runtimeconfig.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\bin\Debug\net10.0\FacaComoEuFiz1.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\bin\Debug\net10.0\FacaComoEuFiz1.pdb
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\obj\Debug\net10.0\FacaComoEuFiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\obj\Debug\net10.0\FacaComoEuFiz1.AssemblyInfoInputs.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\obj\Debug\net10.0\FacaComoEuFiz1.AssemblyInfo.cs
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\obj\Debug\net10.0\FacaComoEuFiz1.csproj.CoreCompileInputs.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\obj\Debug\net10.0\FacaComoEuFiz1.sourcelink.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\obj\Debug\net10.0\FacaComoEuFiz1.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\obj\Debug\net10.0\refint\FacaComoEuFiz1.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\obj\Debug\net10.0\FacaComoEuFiz1.pdb
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\obj\Debug\net10.0\FacaComoEuFiz1.genruntimeconfig.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\FacaComoEuFiz1\obj\Debug\net10.0\ref\FacaComoEuFiz1.dll
