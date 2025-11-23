@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FacaComoEuFiz1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dda76edf7c0a73fc457980e78f21e2500e41622")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b7b3e1afd9cddc092cae3577f275b8aa48c8983")]
 [assembly: System.Reflection.AssemblyProductAttribute("FacaComoEuFiz1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FacaComoEuFiz1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
