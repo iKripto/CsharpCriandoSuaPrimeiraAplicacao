@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\dominandoorientacaoobjetos\\dominandopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|solutionrelative:dominandopoo\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C8E9BBE-AFFE-3ADA-3D7A-6E9EA113FA08}|DominandoPoo\\DominandoPoo.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\dominandoorientacaoobjetos\\dominandopoo\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,20 +68,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Avaliacao.cs",
               "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Avaliacao.cs",
               "RelativeDocumentMoniker": "DominandoPoo\\Models\\Avaliacao.cs",
               "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Avaliacao.cs",
               "RelativeToolTip": "DominandoPoo\\Models\\Avaliacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T13:03:35.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Banda.cs",
               "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Models\\Banda.cs",
               "RelativeDocumentMoniker": "DominandoPoo\\Models\\Banda.cs",
@@ -94,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Program.cs",
               "RelativeDocumentMoniker": "DominandoPoo\\Program.cs",
               "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\DominandoOrientacaoObjetos\\DominandoPoo\\Program.cs",
               "RelativeToolTip": "DominandoPoo\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwCoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAwJEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T14:43:14.561Z",
               "EditorCaption": ""
