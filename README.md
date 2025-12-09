@@ -36,11 +36,11 @@ Certifique-se de ter o [.NET SDK](https://dotnet.microsoft.com/download) instala
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/csharpcriandosuaprimeiraaplicacao.git](https://github.com/seu-usuario/csharpcriandosuaprimeiraaplicacao.git)
+   git clone https://github.com/iKripto/Curso-CSharp-Alura.git
 
 2. Navegue até a pasta do projeto desejado:
    ```bash
-   cd ScreenSound/PrimeiroProjeto
+   cd (caminho desejado)
 
 3. Execute o projeto via terminal:
    ```bash
