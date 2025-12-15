@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\OrientacaoaObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D04832D2-26B2-BE9C-5F2A-62D692C381B6}|OrientacaoaObjetos\\OrientacaoaObjetos.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\orientacaoaobjetos\\orientacaoaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04832D2-26B2-BE9C-5F2A-62D692C381B6}|OrientacaoaObjetos\\OrientacaoaObjetos.csproj|solutionrelative:orientacaoaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04832D2-26B2-BE9C-5F2A-62D692C381B6}|OrientacaoaObjetos\\OrientacaoaObjetos.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\orientacaoaobjetos\\orientacaoaobjetos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04832D2-26B2-BE9C-5F2A-62D692C381B6}|OrientacaoaObjetos\\OrientacaoaObjetos.csproj|solutionrelative:orientacaoaobjetos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04832D2-26B2-BE9C-5F2A-62D692C381B6}|OrientacaoaObjetos\\OrientacaoaObjetos.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\orientacaoaobjetos\\orientacaoaobjetos\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04832D2-26B2-BE9C-5F2A-62D692C381B6}|OrientacaoaObjetos\\OrientacaoaObjetos.csproj|solutionrelative:orientacaoaobjetos\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04832D2-26B2-BE9C-5F2A-62D692C381B6}|OrientacaoaObjetos\\OrientacaoaObjetos.csproj|c:\\users\\ikripto\\desktop\\faculdade\\curso .net alura\\orientacaoaobjetos\\orientacaoaobjetos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04832D2-26B2-BE9C-5F2A-62D692C381B6}|OrientacaoaObjetos\\OrientacaoaObjetos.csproj|solutionrelative:orientacaoaobjetos\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\OrientacaoaObjetos\\OrientacaoaObjetos\\Musica.cs",
+              "RelativeDocumentMoniker": "OrientacaoaObjetos\\Musica.cs",
+              "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\OrientacaoaObjetos\\OrientacaoaObjetos\\Musica.cs",
+              "RelativeToolTip": "OrientacaoaObjetos\\Musica.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T14:55:14.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\OrientacaoaObjetos\\OrientacaoaObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "OrientacaoaObjetos\\Program.cs",
+              "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\OrientacaoaObjetos\\OrientacaoaObjetos\\Program.cs",
+              "RelativeToolTip": "OrientacaoaObjetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:42:25.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\OrientacaoaObjetos\\OrientacaoaObjetos\\Banda.cs",
+              "RelativeDocumentMoniker": "OrientacaoaObjetos\\Banda.cs",
+              "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\OrientacaoaObjetos\\OrientacaoaObjetos\\Banda.cs",
+              "RelativeToolTip": "OrientacaoaObjetos\\Banda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T13:55:16.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\OrientacaoaObjetos\\OrientacaoaObjetos\\Album.cs",
+              "RelativeDocumentMoniker": "OrientacaoaObjetos\\Album.cs",
+              "ToolTip": "C:\\Users\\iKripto\\Desktop\\Faculdade\\Curso .NET Alura\\OrientacaoaObjetos\\OrientacaoaObjetos\\Album.cs",
+              "RelativeToolTip": "OrientacaoaObjetos\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:42:22.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

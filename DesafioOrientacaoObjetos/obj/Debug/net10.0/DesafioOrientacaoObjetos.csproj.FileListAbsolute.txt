@@ -1,0 +1,15 @@
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\obj\Debug\net10.0\DesafioOrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\obj\Debug\net10.0\DesafioOrientacaoObjetos.AssemblyInfoInputs.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\obj\Debug\net10.0\DesafioOrientacaoObjetos.AssemblyInfo.cs
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\obj\Debug\net10.0\DesafioOrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\obj\Debug\net10.0\DesafioOrientacaoObjetos.sourcelink.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\bin\Debug\net10.0\DesafioOrientacaoObjetos.exe
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\bin\Debug\net10.0\DesafioOrientacaoObjetos.deps.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\bin\Debug\net10.0\DesafioOrientacaoObjetos.runtimeconfig.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\bin\Debug\net10.0\DesafioOrientacaoObjetos.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\bin\Debug\net10.0\DesafioOrientacaoObjetos.pdb
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\obj\Debug\net10.0\DesafioOrientacaoObjetos.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\obj\Debug\net10.0\refint\DesafioOrientacaoObjetos.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\obj\Debug\net10.0\DesafioOrientacaoObjetos.pdb
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\obj\Debug\net10.0\DesafioOrientacaoObjetos.genruntimeconfig.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DesafioOrientacaoObjetos\obj\Debug\net10.0\ref\DesafioOrientacaoObjetos.dll

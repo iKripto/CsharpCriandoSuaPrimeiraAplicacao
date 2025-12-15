@@ -1,0 +1,15 @@
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\bin\Debug\net10.0\DominandoPoo.exe
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\bin\Debug\net10.0\DominandoPoo.deps.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\bin\Debug\net10.0\DominandoPoo.runtimeconfig.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\bin\Debug\net10.0\DominandoPoo.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\bin\Debug\net10.0\DominandoPoo.pdb
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\obj\Debug\net10.0\DominandoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\obj\Debug\net10.0\DominandoPoo.AssemblyInfoInputs.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\obj\Debug\net10.0\DominandoPoo.AssemblyInfo.cs
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\obj\Debug\net10.0\DominandoPoo.csproj.CoreCompileInputs.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\obj\Debug\net10.0\DominandoPoo.sourcelink.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\obj\Debug\net10.0\DominandoPoo.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\obj\Debug\net10.0\refint\DominandoPoo.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\obj\Debug\net10.0\DominandoPoo.pdb
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\obj\Debug\net10.0\DominandoPoo.genruntimeconfig.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\DominandoOrientacaoObjetos\DominandoPoo\obj\Debug\net10.0\ref\DominandoPoo.dll

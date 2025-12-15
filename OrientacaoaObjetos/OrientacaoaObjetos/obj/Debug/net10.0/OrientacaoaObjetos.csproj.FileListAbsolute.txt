@@ -1,0 +1,15 @@
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\bin\Debug\net10.0\OrientacaoaObjetos.exe
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\bin\Debug\net10.0\OrientacaoaObjetos.deps.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\bin\Debug\net10.0\OrientacaoaObjetos.runtimeconfig.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\bin\Debug\net10.0\OrientacaoaObjetos.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\bin\Debug\net10.0\OrientacaoaObjetos.pdb
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\obj\Debug\net10.0\OrientacaoaObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\obj\Debug\net10.0\OrientacaoaObjetos.AssemblyInfoInputs.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\obj\Debug\net10.0\OrientacaoaObjetos.AssemblyInfo.cs
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\obj\Debug\net10.0\OrientacaoaObjetos.csproj.CoreCompileInputs.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\obj\Debug\net10.0\OrientacaoaObjetos.sourcelink.json
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\obj\Debug\net10.0\OrientacaoaObjetos.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\obj\Debug\net10.0\refint\OrientacaoaObjetos.dll
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\obj\Debug\net10.0\OrientacaoaObjetos.pdb
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\obj\Debug\net10.0\OrientacaoaObjetos.genruntimeconfig.cache
+C:\Users\iKripto\Desktop\Faculdade\Curso .NET Alura\OrientacaoaObjetos\OrientacaoaObjetos\obj\Debug\net10.0\ref\OrientacaoaObjetos.dll

@@ -1,0 +1,110 @@
+// EXEMPLO DE HERANÇA:
+//Imagine que no seu jogo você tem um Guerreiro e um Mago. Ambos têm Nome, Vida e podem Andar. Em vez de escrever esses códigos duas vezes, criamos uma classe pai (base) chamada Personagem.
+
+//    Sintaxe: Usa-se dois pontos :. Ex: class Guerreiro : Personagem.
+
+//    Vantagem: O Guerreiro ganha automaticamente tudo o que o Personagem tem.
+
+// Classe Base (Pai)
+public class Personagem
+{
+    public string Nome { get; set; }
+    
+    public void Andar()
+    {
+        Console.WriteLine($"{Nome} está andando.");
+    }
+}
+
+// Classe Derivada (Filho)
+// "Guerreiro HERDA de Personagem"
+public class Guerreiro : Personagem 
+{
+    public int Forca { get; set; } // Propriedade exclusiva do Guerreiro
+}
+
+
+
+
+
+
+
+
+
+
+// POLIMORFISMO:
+O conceito: "Muitas formas". Objetos diferentes podem responder à mesma ação (método), mas de maneiras diferentes.
+
+Se eu mandar um Guerreiro atacar, ele usa uma espada. Se eu mandar um Mago atacar, ele solta uma bola de fogo. O comando é o mesmo (Atacar), mas a execução muda.
+
+Para isso funcionar em C#, precisamos de duas palavras-chave mágicas:
+
+    virtual: Na classe pai, diz "Isso pode ser alterado pelos filhos".
+
+    override: Na classe filho, diz "Estou alterando o comportamento do pai".
+
+
+
+
+// Classe Base
+public class Personagem
+{
+    public string Nome { get; set; }
+
+    // 'virtual' permite que este método seja reescrito
+    public virtual void Atacar()
+    {
+        Console.WriteLine("O personagem deu um soco básico.");
+    }
+}
+
+// Classe Guerreiro
+public class Guerreiro : Personagem
+{
+    // 'override' substitui o método do pai
+    public override void Atacar()
+    {
+        Console.WriteLine($"{Nome} atacou com sua Espada Gigante!");
+    }
+}
+
+// Classe Mago
+public class Mago : Personagem
+{
+    public override void Atacar()
+    {
+        Console.WriteLine($"{Nome} lançou uma Bola de Fogo!");
+    }
+}
+
+
+
+
+
+
+
+
+
+// Dicionários:
+
+using System.Collections.Generic; // Necessário importar
+
+// Criando: Chave é string (CPF), Valor é string (Nome)
+Dictionary<string, string> usuarios = new Dictionary<string, string>();
+
+// 1. ADICIONANDO DADOS
+// Forma A: Método Add (lança erro se a chave já existir)
+usuarios.Add("111.222.333-44", "Yago");
+
+// Forma B: Indexador (se a chave já existir, ele SUBSTITUI o valor; se não, cria)
+usuarios["555.666.777-88"] = "Ana";
+
+// 2. ACESSANDO DADOS
+// Você não pede o item "0" ou "1", você pede pela CHAVE
+string nome = usuarios["111.222.333-44"]; // Retorna "Yago"
+
+// 3. Percorrer:
+foreach (var item in usuarios)
+{
+    Console.WriteLine($"CPF: {item.Key}, Nome: {item.Value}");
+}
